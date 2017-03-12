@@ -6,16 +6,14 @@ Search script for estates in Czech Republic. Filters adverts into the terminal.
 Installation
 ------------
 
-`
-mkdir "$HOME/bin"
-curl -kv https://raw.githubusercontent.com/gnachman/iTerm2/master/tests/imgcat -o "$HOME/bin/imgcat"
-curl -kv https://raw.githubusercontent.com/gnachman/iTerm2/master/tests/imgls -o "$HOME/bin/imgls"
-chmod +x "$HOME/bin/imgcat"
-chmod +x "$HOME/bin/imgls"
+`mkdir "$HOME/bin"`
+`curl -kv https://raw.githubusercontent.com/gnachman/iTerm2/master/tests/imgcat -o "$HOME/bin/imgcat"`
+`curl -kv https://raw.githubusercontent.com/gnachman/iTerm2/master/tests/imgls -o "$HOME/bin/imgls"`
+`chmod +x "$HOME/bin/imgcat"`
+`chmod +x "$HOME/bin/imgls"`
 
-# Also add this to your $HOME/.profile
-export PATH="$PATH:$HOME/bin"
-`
+`# Also add this to your $HOME/.profile`
+`export PATH="$PATH:$HOME/bin"`
 
 Environment Variables
 ---------------------
