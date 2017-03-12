@@ -81,6 +81,7 @@ for page in xrange(1,1+pages):
     try:
       display_estate(x)
       if ad_no % ads_no == 0:
+        ad_no += 1
         raw_input('------ Load more --------')
 
     except KeyError:
