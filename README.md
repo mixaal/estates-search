@@ -21,10 +21,14 @@ Environment Variables
 export ESTATES_IMAGE=NONE # Do not display images in terminal
 `
 
-Run
-./estates.py
+Execution
+---------
+
+Run `./estates.py`
 
 Notes
 -----
 
-We need  iTerm2, v3+ on OSX which uses imgcat to display images inside terminal. Under Linux, use fim to display images in terminal console using framebuffer.
+We need  iTerm2, v3+ on OSX which uses imgcat to display images inside terminal. Under Linux, use fim to display images in terminal console using framebuffer:
+
+![Quick look on estates in terminal](https://github.com/mixaal/estates-search/raw/master/images/example.png)
