@@ -3,6 +3,14 @@ Real Estates in Czech Republic
 
 Search script for estates in Czech Republic. Filters adverts into the terminal.
 
+
+Requirements
+------------
+
+Install plotly and pandas:
+
+`sudo pip install plotly pandas`
+
 Installation
 ------------
 

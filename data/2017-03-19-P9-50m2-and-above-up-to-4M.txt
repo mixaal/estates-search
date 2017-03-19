@@ -1,0 +1,425 @@
+----------------------------------------------------------------------------------------------------
+Pod Harfou, Praha - Vysočany Prodej bytu 1+kk 55 m² 2800000 55m2 50909Kc/m2  topped negotiation: False phones:222311917, 604739750
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Praha 9 - Horní Počernice Prodej bytu 2+kk 56 m² 3912000 56m2 69857Kc/m2  not topped negotiation: False phones:775110033
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Mochovská, Praha 9 - Hloubětín Prodej bytu 2+1 52 m² 3500000 52m2 67307Kc/m2  topped negotiation: False phones:800100446, 739545999
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Českodubská, Praha 9 - Vinoř Prodej bytu 2+kk 55 m² 3500000 55m2 63636Kc/m2  topped negotiation: False phones:734220220, 725555166
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Poděbradská, Praha 9 - Hloubětín Prodej bytu 2+1 52 m² 3200000 52m2 61538Kc/m2  topped negotiation: False phones:602222870
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Praha 9 - Letňany Prodej bytu 1+kk 52 m² 3425000 52m2 65865Kc/m2  topped negotiation: False phones:725263724
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Pod Nouzovem, Praha - Kbely Prodej bytu 2+kk 60 m² 3990000 60m2 66500Kc/m2  topped negotiation: False phones:800100446, 739545999
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Slévačská, Praha 9 - Hloubětín Prodej bytu 1+1 59 m² 3500000 59m2 59322Kc/m2  topped negotiation: False phones:774422488
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Českodubská, Praha 9 - Vinoř Prodej bytu 2+kk 55 m² 3299000 55m2 59981Kc/m2  topped negotiation: True phones:725263724
+Updates: Včera
+
+----------------------------------------------------------------------------------------------------
+Zlonická, Praha 9 - Letňany Prodej bytu 2+kk 50 m² 3650000 50m2 73000Kc/m2  topped negotiation: False phones:800100446, 739545999
+Updates: Včera
+
+----------------------------------------------------------------------------------------------------
+U Hostavického potoka, Praha 9 - Hostavice Prodej bytu 2+kk 59 m² 3890000 59m2 65932Kc/m2  topped negotiation: False phones:800100446, 739545999
+Updates: Včera
+
+----------------------------------------------------------------------------------------------------
+Kukelská, Praha - Hloubětín Prodej bytu 3+kk 62 m² 3500000 62m2 56451Kc/m2  not topped negotiation: False phones:776866665
+Updates: Včera
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha Prodej bytu 2+kk 54 m² 3435000 54m2 63611Kc/m2  topped negotiation: False phones:734366366, 734366366
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha Prodej bytu 2+kk 57 m² 3378000 57m2 59263Kc/m2  topped negotiation: False phones:734366366, 734366366
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Pelušková, Praha 9 - Kyje Prodej bytu 2+kk 50 m² 3650000 50m2 73000Kc/m2  topped negotiation: False phones:226211160
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Sicherova, Praha 9 - Kyje Prodej bytu 2+kk 51 m² 3498161 51m2 68591Kc/m2  topped negotiation: False phones:233372021, 233372021
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Mlázovická, Praha 9 - Vinoř Prodej bytu 2+kk 64 m² 3290000 64m2 51406Kc/m2  topped negotiation: False phones:777266461
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Mochovská, Praha 9 - Hloubětín Prodej bytu 2+1 52 m² 3500000 52m2 67307Kc/m2  topped negotiation: False phones:233324048, 607373737
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Zlonická, Praha 9 - Letňany Prodej bytu 2+kk 51 m² 3500000 56m2 62500Kc/m2  topped negotiation: False phones:233324048, 725801606
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Českodubská, Praha 9 - Vinoř Prodej bytu 2+kk 55 m² 3330000 55m2 60545Kc/m2  topped negotiation: False phones:777660690
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Chotěšovská, Praha 9 - Letňany Prodej bytu atypické 86 m² 3890000 86m2 45232Kc/m2  topped negotiation: False phones:800100446, 739545999
+Updates: 16.03.2017
+
+----------------------------------------------------------------------------------------------------
+Sokolovská, Praha 9 - Libeň Prodej bytu 2+1 60 m² 3500000 60m2 58333Kc/m2  topped negotiation: False phones:608332333
+Updates: 16.03.2017
+
+----------------------------------------------------------------------------------------------------
+Praha 9 - Hloubětín Prodej bytu 2+1 61 m² 3400000 61m2 55737Kc/m2  topped negotiation: False phones:800100446, 739545999
+Updates: Dnes
+
+----------------------------------------------------------------------------------------------------
+Semilská, Praha 9 - Kbely Prodej bytu 2+kk 69 m² 3350000 69m2 48550Kc/m2  topped negotiation: False phones:606566321
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Mlékárenská, Praha 9 - Vysočany Prodej bytu 2+kk 52 m² 3300000 52m2 63461Kc/m2  topped negotiation: False phones:603536423
+Updates: 15.03.2017
+
+----------------------------------------------------------------------------------------------------
+Čeperská, Praha - Vinoř Prodej bytu 2+kk 55 m² 3195000 55m2 58090Kc/m2  not topped negotiation: False phones:777660690
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Zubrnická, Praha 9 - Prosek Prodej bytu 2+kk 57 m² 3880000 57m2 68070Kc/m2  not topped negotiation: False phones:277001274, 777882269
+Updates: 14.03.2017
+
+----------------------------------------------------------------------------------------------------
+Lužanská, Praha - Kbely Prodej bytu 2+1 65 m² 3450000 65m2 53076Kc/m2  topped negotiation: False phones:725113793
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Českobrodská, Praha 9 - Hrdlořezy Prodej bytu 3+kk 66 m² 3973200 66m2 60200Kc/m2  topped negotiation: False phones:800707444
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Slévačská, Praha - Praha 14 Prodej bytu 2+1 52 m² 3425000 52m2 65865Kc/m2  topped negotiation: False phones:226257990, 605227014
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 2+kk 51 m² 3534000 51m2 69294Kc/m2  topped negotiation: False phones:222701518, 800400407
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Pilařská, Praha 9 - Satalice Prodej bytu 2+kk 53 m² 3264000 53m2 61584Kc/m2  not topped negotiation: False phones:603553360
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Praha 9 - Vysočany Prodej bytu 1+kk 58 m² 3534000 58m2 60931Kc/m2  topped negotiation: False phones:605132128, 605132128
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 1+kk 57 m² 3435000 57m2 60263Kc/m2  topped negotiation: False phones:605132128, 605132128
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+U Hostavického potoka, Praha 9 - Hostavice Prodej bytu 2+kk 55 m² 3800000 55m2 69090Kc/m2  topped negotiation: False phones:226257990, 605227019
+Updates: 16.03.2017
+
+----------------------------------------------------------------------------------------------------
+Tupolevova, Praha 9 - Letňany Prodej bytu 3+kk 64 m² 3490000 64m2 54531Kc/m2  topped negotiation: False phones:725521554
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Mlékárenská, Praha 9 - Vysočany Prodej bytu 2+kk 52 m² 3300000 52m2 63461Kc/m2  topped negotiation: False phones:774119213
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 53 m² 3891340 53m2 73421Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 53 m² 3792167 53m2 71550Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 53 m² 3792330 53m2 71553Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 53 m² 3888423 53m2 73366Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 53 m² 3849572 53m2 72633Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 70 m² 3900000 70m2 55714Kc/m2  not topped negotiation: False phones:800350111
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Českomoravská, Praha 9 - Libeň Prodej bytu 2+kk 59 m² 3290000 59m2 55762Kc/m2  not topped negotiation: False phones:222222500, 608832362
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Zelenečská, Praha 9 - Hloubětín Prodej bytu 2+1 54 m² 3300000 54m2 61111Kc/m2  not topped negotiation: False phones:601592129, 601592129
+Updates: 10.03.2017
+
+----------------------------------------------------------------------------------------------------
+Tupolevova, Praha 9 - Letňany Prodej bytu 2+kk 53 m² 3990000 55m2 72545Kc/m2  topped negotiation: False phones:800226223
+Updates: 10.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 54 m² 3871059 54m2 71686Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 10.03.2017
+
+----------------------------------------------------------------------------------------------------
+Sokolovská, Praha 9 - Libeň Prodej bytu 2+1 58 m² 3300000 58m2 56896Kc/m2  not topped negotiation: False phones:725141063
+Updates: 11.03.2017
+
+----------------------------------------------------------------------------------------------------
+Staromlýnská, Praha 9 - Vysočany Prodej bytu 2+kk 52 m² 3850000 52m2 74038Kc/m2  topped negotiation: False phones:606879775
+Updates: 15.03.2017
+
+----------------------------------------------------------------------------------------------------
+Cihlářská, Praha 9 - Prosek Prodej bytu 3+kk 65 m² 3490000 65m2 53692Kc/m2  not topped negotiation: False phones:608407470
+Updates: 09.03.2017
+
+----------------------------------------------------------------------------------------------------
+Maršovská, Praha 9 - Kyje Prodej bytu 3+kk 63 m² 3800000 63m2 60317Kc/m2  not topped negotiation: False phones:224232552, 733710719
+Updates: 09.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha Prodej bytu 2+kk 51 m² 3435000 51m2 67352Kc/m2  topped negotiation: False phones:777114566
+Updates: 12.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 70 m² 3870000 70m2 55285Kc/m2  not topped negotiation: False phones:800350111
+Updates: 10.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 70 m² 3930000 70m2 56142Kc/m2 Rezervováno not topped negotiation: False phones:800350111
+Updates: 14.03.2017
+
+----------------------------------------------------------------------------------------------------
+Chotěšovská, Praha 9 - Letňany Prodej bytu 1+kk 69 m² 3250000 69m2 47101Kc/m2  topped negotiation: False phones:775069068
+Updates: 08.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 2+kk 57 m² 3534000 57m2 62000Kc/m2  not topped negotiation: False phones:777299799, 777299799
+Updates: 08.03.2017
+
+----------------------------------------------------------------------------------------------------
+Šumperská, Praha 9 - Letňany Prodej bytu 2+1 54 m² 2789000 54m2 51648Kc/m2  not topped negotiation: False phones:224012838, 608958635
+Updates: 07.03.2017
+
+----------------------------------------------------------------------------------------------------
+Vítkovická, Praha 9 - Letňany Prodej bytu 2+1 52 m² 3050000 52m2 58653Kc/m2  topped negotiation: False phones:603950947
+Updates: 15.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 1+kk 51 m² 3350000 57m2 58771Kc/m2  not topped negotiation: False phones:725716502
+Updates: 04.03.2017
+
+----------------------------------------------------------------------------------------------------
+Markupova, Praha 9 - Horní Počernice Prodej bytu 2+kk 62 m² 3690000 62m2 59516Kc/m2  not topped negotiation: False phones:603146315
+Updates: 01.03.2017
+
+----------------------------------------------------------------------------------------------------
+Sokolovská, Praha 9 - Libeň Prodej bytu 2+1 55 m² 3350000 57m2 58771Kc/m2  topped negotiation: False phones:734220220, 737847727
+Updates: 01.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 2+kk 56 m² 3830000 56m2 68392Kc/m2  not topped negotiation: False phones:800350111
+Updates: 03.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 70 m² 3820000 70m2 54571Kc/m2  not topped negotiation: False phones:800350111
+Updates: 03.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 73 m² 3990000 73m2 54657Kc/m2  not topped negotiation: False phones:800350111
+Updates: 03.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 70 m² 3870000 70m2 55285Kc/m2  not topped negotiation: False phones:800350111
+Updates: 03.03.2017
+
+----------------------------------------------------------------------------------------------------
+Pilařská, Praha 9 - Satalice Prodej bytu 2+kk 54 m² 3439000 54m2 63685Kc/m2  not topped negotiation: False phones:223004606, 602603611
+Updates: 16.03.2017
+
+----------------------------------------------------------------------------------------------------
+Pilařská, Praha 9 - Satalice Prodej bytu 2+kk 52 m² 3352400 52m2 64469Kc/m2  not topped negotiation: False phones:223004606, 602603611
+Updates: 16.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 1+kk 51 m² 3534000 51m2 69294Kc/m2  topped negotiation: False phones:606566321
+Updates: 17.03.2017
+
+----------------------------------------------------------------------------------------------------
+Pilařská, Praha 9 - Satalice Prodej bytu 2+kk 60 m² 3822200 60m2 63703Kc/m2  not topped negotiation: False phones:223004606, 602603611
+Updates: 16.03.2017
+
+----------------------------------------------------------------------------------------------------
+Matějkova, Praha 9 - Libeň Prodej bytu 3+kk 58 m² 3870000 58m2 66724Kc/m2  not topped negotiation: False phones:725243111
+Updates: 02.03.2017
+
+----------------------------------------------------------------------------------------------------
+Konzumní, Praha 9 - Hloubětín Prodej bytu 3+1 69 m² 3895000 69m2 56449Kc/m2  topped negotiation: False phones:602402502
+Updates: 23.02.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 54 m² 3827008 54m2 70870Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 22.02.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 54 m² 3942002 54m2 73000Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 22.02.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 54 m² 3810587 54m2 70566Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 22.02.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 54 m² 3810169 54m2 70558Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 22.02.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 54 m² 3707666 54m2 68660Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 10.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 54 m² 3978989 54m2 73684Kc/m2  topped negotiation: False phones:800200666, 800200666
+Updates: 22.02.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha Prodej bytu 1+kk 51 m² 3990000 51m2 78235Kc/m2  not topped negotiation: False phones:221111999, 722531019
+Updates: 23.02.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 2+kk 55 m² 3435000 55m2 62454Kc/m2  not topped negotiation: False phones:723030723
+Updates: Včera
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 2+kk 58 m² 3534000 58m2 60931Kc/m2  not topped negotiation: False phones:723030723
+Updates: Včera
+
+----------------------------------------------------------------------------------------------------
+Českobrodská, Praha 9 - Běchovice Prodej bytu 2+kk 63 m² 2950000 63m2 46825Kc/m2  not topped negotiation: False phones:606796657
+Updates: 16.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 2+kk 50 m² 3695000 50m2 73900Kc/m2  not topped negotiation: False phones:725293154
+Updates: 15.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 2+kk 54 m² 3385000 54m2 62685Kc/m2  not topped negotiation: False phones:800700099, 725173088
+Updates: 20.02.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 2+kk 57 m² 3434000 57m2 60245Kc/m2  not topped negotiation: False phones:800700099, 725173088
+Updates: 20.02.2017
+
+----------------------------------------------------------------------------------------------------
+Podkovářská, Praha - Vysočany Prodej bytu 2+kk 54 m² 3490000 54m2 64629Kc/m2 Rezervováno not topped negotiation: False phones:732903030
+Updates: 02.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Hloubětín Prodej bytu 2+kk 51 m² 3534000 57m2 62000Kc/m2  topped negotiation: False phones:725716502
+Updates: 28.02.2017
+
+----------------------------------------------------------------------------------------------------
+Luštěnická, Praha 9 - Kbely Prodej bytu 2+kk 62 m² 3399000 66m2 51500Kc/m2  not topped negotiation: False phones:730516454, 730516454
+Updates: 12.03.2017
+
+----------------------------------------------------------------------------------------------------
+Českodubská, Praha 9 - Vinoř Prodej bytu 2+kk 55 m² 3500000 55m2 63636Kc/m2  topped negotiation: False phones:727804095
+Updates: 08.03.2017
+
+----------------------------------------------------------------------------------------------------
+Sokolovská, Praha 9 - Libeň Prodej bytu 3+kk 68 m² 3490000 68m2 51323Kc/m2  not topped negotiation: False phones:608539283
+Updates: Včera
+
+----------------------------------------------------------------------------------------------------
+Skloněná, Praha 9 - Vysočany Prodej bytu 1+kk 56 m² 3397000 56m2 60660Kc/m2 Rezervováno topped negotiation: True phones:606122422
+Updates: 27.02.2017
+
+----------------------------------------------------------------------------------------------------
+Skloněná, Praha 9 - Vysočany Prodej bytu 1+kk 56 m² 3397000 56m2 60660Kc/m2  topped negotiation: True phones:606122422
+Updates: 20.02.2017
+
+----------------------------------------------------------------------------------------------------
+Českodubská, Praha 9 - Vinoř Prodej bytu 2+kk 55 m² 3800000 55m2 69090Kc/m2  not topped negotiation: False phones:724022768
+Updates: 08.02.2017
+
+----------------------------------------------------------------------------------------------------
+Českodubská, Praha 9 - Vinoř Prodej bytu 2+kk 55 m² 3500000 55m2 63636Kc/m2  not topped negotiation: False phones:775432964
+Updates: 07.03.2017
+
+----------------------------------------------------------------------------------------------------
+Kolbenova, Praha 9 - Vysočany Prodej bytu 1+kk 51 m² 3534000 51m2 69294Kc/m2  not topped negotiation: False phones:731679206, 731679206
+Updates: 15.03.2017
+
+----------------------------------------------------------------------------------------------------
+Žiželická, Praha 9 - Újezd nad Lesy Prodej bytu 3+kk 63 m² 3109000 63m2 49349Kc/m2 Rezervováno not topped negotiation: False phones:739073855, 739073855
+Updates: 09.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 69 m² 3710000 69m2 53768Kc/m2 Rezervováno not topped negotiation: False phones:800350111
+Updates: 08.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 73 m² 3910000 73m2 53561Kc/m2 Rezervováno not topped negotiation: False phones:800350111
+Updates: 03.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 2+kk 57 m² 3080000 57m2 54035Kc/m2  not topped negotiation: False phones:800350111
+Updates: 22.12.2016
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 2+kk 51 m² 2940000 51m2 57647Kc/m2 Rezervováno not topped negotiation: False phones:800350111
+Updates: 02.02.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 2+kk 57 m² 3070000 57m2 53859Kc/m2  not topped negotiation: False phones:800350111
+Updates: 22.12.2016
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 74 m² 3900000 74m2 52702Kc/m2  not topped negotiation: False phones:800350111
+Updates: 22.12.2016
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 3+kk 75 m² 3940000 75m2 52533Kc/m2 Rezervováno not topped negotiation: False phones:800350111
+Updates: 13.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 2+kk 55 m² 3100000 55m2 56363Kc/m2 Rezervováno not topped negotiation: False phones:800350111
+Updates: 03.03.2017
+
+----------------------------------------------------------------------------------------------------
+Bermanova, Praha 9 - Čakovice Prodej bytu 2+kk 55 m² 3440000 55m2 62545Kc/m2 Rezervováno not topped negotiation: False phones:800350111
+Updates: 08.03.2017
+
+----------------------------------------------------------------------------------------------------
+Veselská, Praha - Letňany Prodej bytu 2+kk 52 m² 3190900 56m2 56980Kc/m2  not topped negotiation: False phones:606095420
+Updates: 13.02.2017
+
+Average price m2:61823Kc/m2
+Median  price m2:61538Kc/m2
+Total Count     :112
+Filtered        :105
+Out of filter   :5
