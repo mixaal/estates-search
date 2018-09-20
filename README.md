@@ -34,9 +34,14 @@ Execution
 
 Run `./estates.py`
 
+Sample generated price map for Prague 8:
+
+
+![Price map for Prague 8](images/pricemap.png)
+
 Notes
 -----
 
-We need  iTerm2, v3+ on OSX which uses imgcat to display images inside terminal. Under Linux, use fim to display images in terminal console using framebuffer:
+iTerm2, v3+ needed on OSX which uses imgcat to display images inside terminal. Under Linux, use fim to display images in terminal console using framebuffer:
 
 ![Quick look on estates in terminal](https://github.com/mixaal/estates-search/raw/master/images/example.png)
